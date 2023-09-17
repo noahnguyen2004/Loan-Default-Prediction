@@ -1,1 +1,1 @@
-# Loan-Status-Prediction
+# Loan Default Prediction
